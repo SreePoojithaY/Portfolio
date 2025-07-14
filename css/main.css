@@ -5171,6 +5171,7 @@ Created using IcoMoon - icomoon.io
   border-radius: 50%;
   height: 180px;
   width: 180px;
+  object-fit: cover;
   padding: 0;
   margin: 0;
   border: 15px solid transparent;
